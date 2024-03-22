@@ -34,6 +34,11 @@ If you'd like to contribute to this project, you're welcome to submit pull reque
 6. **Pull Request:** Create a pull request from your forked branch to the main branch of this repository.
 
 We'll review your pull request and provide feedback or merge it if it aligns with the project's goals.
+<html>
+  <head>
+    <img src="Screenshot 2024-01-28 091747.png" height ="100px" width = "100px">
+  </head>
+</html>  
 
 ## License
 
